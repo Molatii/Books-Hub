@@ -1,0 +1,24 @@
+.Ad-contain{
+        width: 100%;
+        height: 100%; 
+      
+}
+
+.background-Ads{
+    width: 100%;
+    height: 70vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(../books_imgs/booksImages/books.png);    
+    background-size: cover;
+    position: relative;  
+    color: white;
+    font-size: 30px;    
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+
+
+
+

@@ -1,0 +1,22 @@
+/*set style for login button */
+.login_Button{
+    background-image: linear-gradient(to right,  rgb(13, 52, 179),yellow);
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: cursive;
+    width: 160px;
+    color: white;
+    border-radius: 12px;
+    border-color:  yellowgreen;
+    border: 0px solid green;
+    cursor: pointer;
+}
+/*set hover effect on login_button */
+.login_Button:hover{
+    background-image: linear-gradient(to right,  rgb(3, 25, 99),rgb(134, 134, 10));
+}
+/*set style for login-button when active */
+.login_Button:hover:active {
+      transform: translateY(2px);
+}

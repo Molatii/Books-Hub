@@ -1,0 +1,496 @@
+/*Media Query for Iphone 5 */
+@media  (max-width : 320px){
+    .contaner-div{
+        width: 100%;
+        height: 100%;    
+    }
+   
+    .h3{
+        text-decoration: underline;
+        color: rgb(75, 68, 68);
+    }
+    
+    .socialMedia-container{
+        display:inline-block;
+        position:relative;
+        padding:5px;
+        width: 100%;
+    }
+    
+    .fb{
+    
+        display:inline-block;
+        width: 25%;
+    }
+    .tw{
+      
+        display:inline-block;
+        width: 25%;
+    }
+    .Link{
+       
+        display:inline-block;
+        width: 25%;
+    }
+    
+    .Ins{
+       
+        display:inline-block;
+        width: 25%;
+    }
+    
+    .Icon{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    }
+    
+    .mission-Cotainer{
+        display: grid;
+        width: 100%;
+        grid-gap:20px;
+        grid-template-columns: repeat(auto-fit, minmax(580px, 1fr) );
+       
+    }
+    
+    .mission{
+            background-color: rgb(210, 210, 247);
+            display:inline-block;
+            width: 50%;
+    
+    }
+    .goals{
+            background-color: lavender;
+            display:inline-block;
+            width: 50%;
+            font-weight: normal;
+    }
+    
+
+
+}
+
+
+
+
+
+
+
+
+/*Media Query for SamSung S5 */
+@media only screen and (min-width:321px) and (max-width : 360px){
+    .contaner-div{
+        width: 100%;
+        height: 100%;    
+    }
+    
+    
+    .h3{
+        text-decoration: underline;
+        color: rgb(75, 68, 68);
+    }
+    
+    .socialMedia-container{
+        display:inline-block;
+        position:relative;
+        padding:5px;
+        width: 100%;
+    }
+    
+    .fb{
+    
+        display:inline-block;
+        width: 25%;
+    }
+    .tw{
+      
+        display:inline-block;
+        width: 25%;
+    }
+    .Link{
+       
+        display:inline-block;
+        width: 25%;
+    }
+    
+    .Ins{
+       
+        display:inline-block;
+        width: 25%;
+    }
+    
+    .Icon{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    }
+    
+    .mission-Cotainer{
+        display: grid;
+        width: 100%;
+        grid-gap:20px;
+        grid-template-columns: repeat(auto-fit, minmax(655px, 1fr) );
+    }
+    
+    .mission{
+            background-color: rgb(210, 210, 247);
+            display:inline-block;
+            width: 50%;
+    
+    }
+    .goals{
+            background-color: lavender;
+            display:inline-block;
+            width: 50%;
+            font-weight: normal;
+    }
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Media Query for Iphone 5/6/7 */
+@media only screen and (min-width:361px) and (max-width:375px){
+    .contaner-div{
+        width: 100%;
+        height: 100%;    
+    }
+    
+    .h3{
+        text-decoration: underline;
+        color: rgb(75, 68, 68);
+    }
+    
+    .socialMedia-container{
+        display:inline-block;
+        position:relative;
+        padding:5px;
+        width: 100%;
+    }
+    
+    .fb{
+    
+        display:inline-block;
+        width: 25%;
+    }
+    .tw{
+      
+        display:inline-block;
+        width: 25%;
+    }
+    .Link{
+       
+        display:inline-block;
+        width: 25%;
+    }
+    
+    .Ins{
+       
+        display:inline-block;
+        width: 25%;
+    }
+    
+    .Icon{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    }
+    
+    .mission-Cotainer{
+        display: grid;
+        width: 100%;
+        grid-gap:20px;
+        grid-template-columns: repeat(auto-fit, minmax(685px, 1fr) );
+    }
+    
+    .mission{
+            background-color: rgb(210, 210, 247);
+            display:inline-block;
+            width: 50%;
+    
+    }
+    .goals{
+            background-color: lavender;
+            display:inline-block;
+            width: 50%;
+            font-weight: normal;
+    }
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Media Query for Iphone Plus */
+@media only screen and (min-width:376px) and (max-width:414px){
+    .contaner-div{
+        width: 100%;
+        height: 100%;    
+    }
+    
+    .h3{
+        text-decoration: underline;
+        color: rgb(75, 68, 68);
+    }
+    
+    .socialMedia-container{
+        display:inline-block;
+        position:relative;
+        padding:5px;
+        width: 100%;
+    }
+    
+    .fb{
+    
+        display:inline-block;
+        width: 25%;
+    }
+    .tw{
+      
+        display:inline-block;
+        width: 25%;
+    }
+    .Link{
+       
+        display:inline-block;
+        width: 25%;
+    }
+    
+    .Ins{
+       
+        display:inline-block;
+        width: 25%;
+    }
+    
+    .Icon{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    }
+    
+    .mission-Cotainer{
+        display: grid;
+        width: 100%;
+        grid-gap:20px;
+        grid-template-columns: repeat(auto-fit, minmax(770px, 1fr) );
+    }
+    
+    .mission{
+            background-color: rgb(210, 210, 247);
+            display:inline-block;
+            width: 50%;
+    
+    }
+    .goals{
+            background-color: lavender;
+            display:inline-block;
+            width: 50%;
+            font-weight: normal;
+    }
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Media Query for IPad*/
+@media only screen and (min-width:415px) and (max-width:768px){
+    .contaner-div{
+        width: 100%;
+        height: 100%;    
+    }
+  .h3{
+        text-decoration: underline;
+        color: rgb(75, 68, 68);
+    }
+    
+    .socialMedia-container{
+        display:inline-block;
+        position:relative;
+        padding:5px;
+        width: 100%;
+    }
+    
+    .fb{
+    
+        display:inline-block;
+        width: 25%;
+    }
+    .tw{
+      
+        display:inline-block;
+        width: 25%;
+    }
+    .Link{
+       
+        display:inline-block;
+        width: 25%;
+    }
+    
+    .Ins{
+       
+        display:inline-block;
+        width: 25%;
+    }
+    
+    .Icon{
+    border-radius: 50%;
+    height: 70px;
+    width: 90px;
+    }
+    
+    .mission-Cotainer{
+        display: inline-flex;
+        width: 100%;
+    }
+    
+    .mission{
+            background-color: rgb(210, 210, 247);
+            display:inline-block;
+            width: 50%;
+    
+    }
+    .goals{
+            background-color: lavender;
+            display:inline-block;
+            width: 50%;
+            font-weight: normal;
+    }
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Media Query for IPad Pro*/
+@media only screen and (min-width:769px) and (max-width:1038px){
+
+    .contaner-div{
+        width: 100%;
+        height: 100%;    
+    }
+    
+    .h3{
+        text-decoration: underline;
+        color: rgb(75, 68, 68);
+    }
+    
+    .socialMedia-container{
+        display:inline-block;
+        position:relative;
+        padding:5px;
+        width: 100%;
+    }
+    
+    .fb{
+    
+        display:inline-block;
+        width: 25%;
+    }
+    .tw{
+      
+        display:inline-block;
+        width: 25%;
+    }
+    .Link{
+       
+        display:inline-block;
+        width: 25%;
+    }
+    
+    .Ins{
+       
+        display:inline-block;
+        width: 25%;
+    }
+    
+    .Icon{
+    border-radius: 50%;
+    height: 70px;
+    width: 90px;
+    }
+    
+    .mission-Cotainer{
+        display: inline-flex;
+        width: 100%;
+    }
+    
+    .mission{
+            background-color: rgb(210, 210, 247);
+            display:inline-block;
+            width: 50%;
+    
+    }
+    .goals{
+            background-color: lavender;
+            display:inline-block;
+            width: 50%;
+            font-weight: normal;
+    }
+
+
+
+}

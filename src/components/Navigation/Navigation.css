@@ -1,0 +1,85 @@
+/*set div container */
+.Nav-container{
+    width: 100%;
+    display:flex;
+    position: sticky;
+    top: 0%;
+    z-index: 100;
+    
+}
+/*set div for Compny name and logo */
+.NameAndLogo{
+    width: 50%;
+    background-color: #1976d2;
+    margin:0;
+    padding:0;
+    display:flex;
+    justify-content:left;
+    text-align:left;
+    align-items:left;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+/*set h2 style for company name and logo*/
+.LogoAndText{
+    margin-left: 0%;
+    margin-top: 0%;
+    display:inline-block;
+    padding:5px 30px;
+    color:white;
+    text-transform:uppercase;
+    letter-spacing:4px;
+    text-decoration:none;
+    font-size:30px;
+    font-weight: bold;
+    overflow:hidden;
+    transition:0.2s;
+    
+}
+/*set second div style for all navigation texts */
+.Nav-text {
+    width: 50%;
+    background-color: yellow;
+    margin:0;
+    padding:0;
+    display:flex;
+    justify-content:center;
+    text-align:left;
+    align-items:left;
+}
+/*set all h2 text inside second div Nav-text */
+.h2-text{
+margin-left: 0%;
+display:inline-block;
+padding:15px 30px;
+color:rgb(0, 0, 0);
+text-transform:uppercase;
+letter-spacing:2px;
+text-decoration:none;
+font-size:17px;
+overflow:hidden;
+transition:0.2s;
+cursor: pointer;
+}
+/*set hover effect on all h2 text inside Nav-text Div */
+.h2-text:hover {
+      cursor: pointer;
+      color:rgb(0, 0, 0);
+      box-shadow: 0 0 16px #bbbe25, 0 0 40px #2596be;
+      transition-delay: 0.1s;
+} 
+.link{
+    text-decoration:none ;
+    color: black;
+}
+
+
+/*set Books Hub Icon */
+.Logo-icon{
+ width: 40px;
+ height: 40px;
+ margin-top: -1%;
+ margin-right: 4px;
+ margin-left: -23px;
+}
+

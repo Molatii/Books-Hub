@@ -1,0 +1,8 @@
+.signOff{
+    color: white;
+    text-decoration: none;
+}
+
+.signOff :hover{
+    color: red;
+}

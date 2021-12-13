@@ -1,0 +1,285 @@
+.footer-container{
+    position: relative;
+    margin-bottom: 0%;
+    width: 100%;
+    display: grid;
+}
+
+.founder-section{
+    background-color: rgba(0,0,0,.5);
+    text-align: center;
+    color: white;
+}
+.details-section{
+    background-color: #8ba6c2;
+    text-align: center;
+    width: 100%;
+    color: rgb(75, 74, 74);   
+    display: inline-flex;
+}
+
+.Get-Access{
+    display:grid;
+    width: 25%;
+}
+.Literacy-Hub{
+    display:grid;
+    width: 25%;    
+}
+.Support{
+    display:grid;
+    width: 25%;  
+}
+.Advertise-with-us{
+    display:grid;
+    width: 25%;
+}
+
+.founderProfile{
+    text-decoration: none;
+    margin-left: 3px;
+    color: white;
+}
+.links{
+    color: rgb(75, 74, 74);  
+    text-decoration: none;
+}
+
+
+
+/*Media Query for Iphone 5 */
+@media  (max-width:320px){
+    .footer-container{
+        position: relative;
+        margin-bottom: 0%;
+        width: 100%;
+        display: grid;
+    }    
+    .founder-section{
+        background-color: rgba(0,0,0,.5);
+        text-align: center;
+        font-size: 13px;
+        color: white;
+    }
+    .details-section{
+        background-color: #8ba6c2;
+        text-align: center;
+        width: 100%;
+        color: rgb(75, 74, 74);         
+        display: grid;        
+        grid-template-columns: repeat(auto-fit, minmax( 1fr));
+        
+    }  
+    
+    
+    .Get-Access{
+        display:inline-block;
+        width: 100%;
+    }
+    .Literacy-Hub{
+        display:inline-block;
+        width: 100%;    
+    }
+    .Support{
+        display:inline-block;
+        width: 100%;  
+    }
+    .Advertise-with-us{
+        display:inline-block;
+        width: 100%;
+       
+    }
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Media Query for SamSung S5 */
+@media only screen and (min-width:321px) and (max-width : 360px){
+    .footer-container{
+        position: relative;
+        margin-bottom: 0%;
+        width: 100%;
+        display: grid;
+    }    
+    .founder-section{
+        background-color: rgba(0,0,0,.5);
+        text-align: center;
+        font-size: 13px;
+        color: white;
+    }
+    .details-section{
+        background-color: #8ba6c2;
+        text-align: center;
+        width: 100%;
+        color: rgb(75, 74, 74);         
+        display: grid;        
+        grid-template-columns: repeat(auto-fit, minmax( 1fr));
+        
+    }    
+    
+    .Get-Access{
+        display:inline-block;
+        width: 100%;
+    }
+    .Literacy-Hub{
+        display:inline-block;
+        width: 100%;    
+    }
+    .Support{
+        display:inline-block;
+        width: 100%;  
+    }
+    .Advertise-with-us{
+        display:inline-block;
+        width: 100%;
+    }
+ 
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Media Query for Iphone 5/6/7 */
+@media only screen and (min-width:361px) and (max-width:375px){
+
+    .footer-container{
+        position: relative;
+        margin-bottom: 0%;
+        width: 100%;
+        display: grid;
+    }    
+    .founder-section{
+        background-color: rgba(0,0,0,.5);
+        text-align: center;
+        color: white;
+        font-size: 13px;
+    }
+    .details-section{
+        background-color: #8ba6c2;
+        text-align: center;
+        width: 100%;
+        color: rgb(75, 74, 74);         
+        display: grid;        
+        grid-template-columns: repeat(auto-fit, minmax( 1fr));
+        
+    }  
+    
+    
+    .Get-Access{
+        display:inline-block;
+        width: 100%;
+    }
+    .Literacy-Hub{
+        display:inline-block;
+        width: 100%;    
+    }
+    .Support{
+        display:inline-block;
+        width: 100%;  
+    }
+    .Advertise-with-us{
+        display:inline-block;
+        width: 100%;
+    }
+ 
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/*Media Query for Iphone Plus */
+@media only screen and (min-width:376px) and (max-width:414px){
+
+    .footer-container{
+        position: relative;
+        margin-bottom: 0%;
+        width: 100%;
+        display: grid;
+    }    
+    .founder-section{
+        background-color: rgba(0,0,0,.5);
+        text-align: center;
+        font-size: 13px;
+        color: white;
+    }
+    .details-section{
+        background-color: #8ba6c2;
+        text-align: center;
+        width: 100%;
+        color: rgb(75, 74, 74);         
+        display: grid;        
+        grid-template-columns: repeat(auto-fit, minmax( 1fr));
+        
+    }  
+    
+    
+    .Get-Access{
+        display:inline-block;
+        width: 100%;
+    }
+    .Literacy-Hub{
+        display:inline-block;
+        width: 100%;    
+    }
+    .Support{
+        display:inline-block;
+        width: 100%;  
+    }
+    .Advertise-with-us{
+        display:inline-block;
+        width: 100%;
+    }
+ 
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

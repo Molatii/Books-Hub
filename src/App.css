@@ -1,0 +1,10 @@
+/*Set web site body*/
+body {
+ height: 100%;
+ width: 100%;
+ 
+ background-color: rgb(238, 227, 227);
+}
+.App_container{
+    width: 100%;
+}

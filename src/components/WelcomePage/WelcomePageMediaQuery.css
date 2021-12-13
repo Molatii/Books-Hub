@@ -1,0 +1,22 @@
+
+/*Media Query for IPad*/
+@media only screen and (min-width:415px) and (max-width:768px){
+
+  /*set  Carousel.Caption*/
+  .description-text{
+    font-weight: bold;
+    font-size: 16px;
+  }
+}
+
+
+/*Media Query for IPad Pro*/
+@media only screen and (min-width:769px) and (max-width:1038px){
+
+    /*set  Carousel.Caption*/
+    .description-text{
+        font-weight: bold;
+        font-size: 17px;
+    }
+
+}

@@ -1,0 +1,18 @@
+/*set div container height */
+.welcomePage-container{
+    height: 70%;
+  }
+ /*set all Carousel Images width nd height */  
+  .w-100 {
+    width: 100% !important;
+    height: 91.1vh;
+  }
+  
+  /*set  Carousel.Caption*/
+  .description-text{
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+  
+   
